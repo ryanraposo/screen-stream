@@ -1,0 +1,16 @@
+{
+    "name": "screen-stream",
+    "version": "1.0.0",
+    "description": "A simple WebRTC screen sharing web app",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "uuid": "^11.0.3",
+        "ws": "^8.18.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
